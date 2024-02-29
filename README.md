@@ -1,2 +1,3 @@
 # number-guesser
-practicing with golang
+Practicing with golang
+Covering type struct and type interface
